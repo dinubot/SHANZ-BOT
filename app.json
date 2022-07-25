@@ -1,8 +1,8 @@
 {
-  "name": "SHANZ-BOT",
+  "name": "Dinu-BOT",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Itsme-shan/SHANZ-BOT",
-  "logo": "https://telegra.ph/file/da54e711f23c43204a9b7.jpg",
+  "logo": "https://telegra.ph/file/f3ee9dda7215cda124d0c.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
