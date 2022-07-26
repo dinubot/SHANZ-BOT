@@ -1,12 +1,12 @@
 <p align="center">
 
-<img src="https://telegra.ph/file/da54e711f23c43204a9b7.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/f3ee9dda7215cda124d0c.jpg" alt="nz" width="350"/>
 
 </p>
 
-## SHANZ-BOT
+## Dinu-BOT
 
-> <a href="https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw" /><br>
+> <a href="https://youtube.com/channel/UCbPXOlyLjsRINE2S2fYVkrA/videos"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw" /><br>
 
 > [Automated Multi Device whatsapp bot created](https://github.com/Itsme-shan/SHANZ-BOT) by [Mr SHANZ ツ](https://github.com/Itsme-shan)
 
